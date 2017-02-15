@@ -1,0 +1,26 @@
+{
+  "name": "lang-gen",
+  "version": "0.0.0",
+  "description": "Natural language generator",
+  "main": "app.js",
+  "dependencies": {
+    "sequelize": "^3.30.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test/acceptance/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnyatesiv/lang-gen.git"
+  },
+  "keywords": [
+    "language"
+  ],
+  "author": "John Yates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnyatesiv/lang-gen/issues"
+  },
+  "homepage": "https://github.com/johnyatesiv/lang-gen#readme"
+}
