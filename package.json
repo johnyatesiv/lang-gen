@@ -4,6 +4,8 @@
   "description": "Natural language generator",
   "main": "app.js",
   "dependencies": {
+    "mysql": "^2.13.0",
+    "node-neural-network": "^1.0.3",
     "sequelize": "^3.30.2"
   },
   "devDependencies": {},
